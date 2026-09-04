@@ -1,3 +1,13 @@
+![Estático](https://img.shields.io/badge/Legion--del--Mal-Activa-green)
+
+![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/LuiherraDev/Curso-Git-Github/ci.yml)
+![Release](https://img.shields.io/github/v/release/LuiherraDev/Curso-Git-Github)
+![Issues](https://img.shields.io/github/issues/LuiherraDev/Curso-Git-Github)
+![Último commit](https://img.shields.io/github/last-commit/LuiherraDev/Curso-Git-Github)
+![Licencia](https://img.shields.io/github/license/LuiherraDev/Curso-Git-Github?cacheSeconds=60)
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
