@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/LuiherraDev/Curso-Git-Github)
 ![Issues](https://img.shields.io/github/issues/LuiherraDev/Curso-Git-Github)
 ![Último commit](https://img.shields.io/github/last-commit/LuiherraDev/Curso-Git-Github)
-![Licencia](https://img.shields.io/github/license/LuiherraDev/Curso-Git-Github)
+![Licencia](https://img.shields.io/github/license/LuiherraDev/Curso-Git-Github?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
