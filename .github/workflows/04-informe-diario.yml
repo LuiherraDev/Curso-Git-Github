@@ -56,6 +56,8 @@ jobs:
           EOF
       - name: Brainiac archiva el informe
         run: |
+          git config user.name "Luis HR"
+          git config user.email "luiherra25@gmail.com"
           git add README.md
           git commit -m "📊 Informe diario de dominación - $(date -u +%Y-%m-%d)"
           git push
