@@ -12,6 +12,21 @@ on:
           - Magneto
           - Joker
           - Mystique
+      
+      prioridad:
+        description: "¿Que nivel de prioridad quieres?"
+        required: true
+        type: choice
+        options:
+          - 🟢 Normal
+          - 🟡 Alta
+          - 🔴 Critica
+
+      mensaje:
+        description: "¿Que mensaje quieres para el consejo?"
+        required: true
+        default: "La misión fue un éxito"
+
 
 jobs:
   transmitir-mensaje:
