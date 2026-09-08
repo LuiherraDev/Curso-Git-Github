@@ -12,3 +12,6 @@
 - Spiderman 
 - Spiderman 2
 - ...
+
+## Estrategia recomendada
+
