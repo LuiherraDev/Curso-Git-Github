@@ -2,7 +2,7 @@
 name: Template para bugs
 about: Ayúdanos a mejorar el software
 title: 'Bug: '
-labels: bug
+labels: bug, Feat Software
 assignees: LuiherraDev
 
 ---
