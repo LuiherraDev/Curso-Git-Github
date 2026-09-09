@@ -54,4 +54,4 @@ jobs:
             });
 
       - name: Confirmar transmisión
-        run: echo "✅ Brainiac ha respondido al issue #${{ github.event.issue.number }}"
+        run: echo "✅ Brainiac ha respondido al issue `#${{ github.event.issue.number }}`"
